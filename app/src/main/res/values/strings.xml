@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Recycle view example</string>
+    <string name="content">Content</string>
+    <string name="search">Search</string>
+    <string name="info">About</string>
+    <string name="action_favorite">Favorites</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
